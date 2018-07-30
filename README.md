@@ -1,6 +1,6 @@
 # Grafana.pl
 
 * Polish Grafana website:
-  * http://grafana.pl/
+  * https://grafana.pl/
 * Based on main Grafana website:
   * https://grafana.com/
